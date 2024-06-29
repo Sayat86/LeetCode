@@ -19,7 +19,6 @@ public class FindDisappearedNumbers {
                 result.add(i + 1);
             }
         }
-
         return result;
     }
 
